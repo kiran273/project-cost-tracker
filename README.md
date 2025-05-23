@@ -49,6 +49,6 @@ Responsive UI with Chakra UI.
 
 Submission
 
-GitHub: 
-Deployed URL: 
+GitHub: https://github.com/kiran273/project-cost-tracker
+Deployed URL: https://project-cost-tracker-peach.vercel.app/
 
